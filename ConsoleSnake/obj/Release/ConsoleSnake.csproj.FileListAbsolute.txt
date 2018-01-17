@@ -1,0 +1,6 @@
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\bin\Release\ConsoleSnake.exe.config
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\bin\Release\ConsoleSnake.exe
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\bin\Release\ConsoleSnake.pdb
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\obj\Release\ConsoleSnake.exe
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\obj\Release\ConsoleSnake.pdb
+D:\CSProjecs\ConsoleSnake\ConsoleSnake\obj\Release\ConsoleSnake.csprojResolveAssemblyReference.cache
